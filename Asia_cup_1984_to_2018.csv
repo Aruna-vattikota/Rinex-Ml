@@ -1,0 +1,115 @@
+Match id,Team_1,Team_2,Format,Ground,Year,Toss,Selection,fi_score,fi_wickets,fi_4s,fi_6s,fi_extra,fi_run_rate,fi_avg_str_rate,fi_max_score,fi_max_indv_wickets,Player Of The Match,Result,si_score,si_wickets,si_4s,si_6s,si_extras,si_run_rate,si_avg_str_rate,si_max_indv_wickets,si_max_indv_wickets
+1,Pakistan,Sri Lanka,ODI,Sharjah,1984,Sri Lanka,Bowling,187.0,9.0,9.0,3.0,21.0,4.06,52.04,47.0,2.0,Roy Dias,Sri Lanka,190.0,5.0,11.0,1.0,26.0,4.36,68.51,57.0,3.0
+2,India,Sri Lanka,ODI,Sharjah,1984,India,Bowling,97.0,0.0,9.0,0.0,14.0,4.47,60.48,51.0,3.0,Surinder Khanna,India,96.0,10.0,7.0,0.0,8.0,2.34,25.74,38.0,0.0
+3,India,Pakistan,ODI,Sharjah,1984,India,Batting,188.0,4.0,13.0,3.0,17.0,4.08,60.21,56.0,3.0,Surinder Khanna,India,134.0,10.0,5.0,0.0,5.0,3.37,39.46,35.0,1.0
+4,Sri Lanka,Pakistan,ODI,Colombo(PSS),1986,Sri Lanka,Bowling,116.0,10.0,10.0,0.0,14.0,3.42,37.87,34.0,3.0,Mohsin Khan,Pakistan,197.0,10.0,14.0,3.0,15.0,4.37,65.14,39.0,3.0
+5,Bangladesh,Pakistan,ODI,Moratuwa,1986,Pakistan,Bowling,94.0,10.0,0.0,0.0,9.0,2.64,24.63,37.0,2.0,Wasim Akram,Pakistan,98.0,3.0,4.0,0.0,5.0,3.04,36.79,47.0,4.0
+6,Sri Lanka,Bangladesh,ODI,Kandy,1986,Bangladesh,Bowling,132.0,3.0,0.0,0.0,19.0,4.19,46.07,44.0,2.0,Asanka Gurusinha,Bangladesh,131.0,8.0,0.0,0.0,10.0,2.91,47.03,40.0,1.0
+7,Sri Lanka,Pakistan,ODI,Colombo(SSC),1986,Sri Lanka,Bowling,195.0,5.0,15.0,1.0,9.0,4.6,62.09,57.0,4.0,Javed Miandad,Sri Lanka,191.0,9.0,11.0,4.0,14.0,4.24,70.13,67.0,3.0
+8,Pakistan,Sri Lanka,ODI,Dhaka,1988,Sri Lanka,Bowling,194.0,7.0,5.0,0.0,7.0,4.4,74.43,54.0,2.0,Roshan Mahanama,Sri Lanka,195.0,5.0,10.0,0.0,18.0,5.02,73.08,55.0,3.0
+9,Bangladesh,India,ODI,Chattogram,1988,India,Bowling,99.0,8.0,5.0,0.0,13.0,2.2,36.13,22.0,1.0,Navjot Sidhu,India,100.0,1.0,7.0,1.0,7.0,3.84,56.7,50.0,3.0
+10,India,Sri Lanka,ODI,Dhaka,1988,India,Bowling,254.0,10.0,14.0,4.0,5.0,5.77,97.52,50.0,2.0,Aravinda de Silva,Sri Lanka,271.0,6.0,12.0,2.0,13.0,6.02,106.61,69.0,4.0
+11,Bangladesh,Pakistan,ODI,Chattogram,1988,Pakistan,Batting,111.0,6.0,0.0,0.0,15.0,2.46,31.02,22.0,1.0,Moin ul Atiq,Pakistan,284.0,3.0,9.0,4.0,23.0,6.31,76.52,124.0,3.0
+12,India,Pakistan,ODI,Dhaka,1988,India,Bowling,143.0,6.0,8.0,0.0,19.0,3.51,38.29,74.0,5.0,Arshad Ayub,India,142.0,10.0,7.0,0.0,17.0,3.35,47.42,38.0,3.0
+13,Bangladesh,Sri Lanka,ODI,Dhaka,1988,Sri Lanka,Bowling,118.0,8.0,0.0,0.0,12.0,2.62,30.28,30.0,1.0,Brendon Kuruppu,Sri Lanka,120.0,1.0,0.0,0.0,7.0,3.89,59.78,58.0,4.0
+14,India,Sri Lanka,ODI,Dhaka,1988,India,Bowling,180.0,4.0,10.0,3.0,12.0,4.84,62.06,76.0,3.0,Navjot Sidhu,India,176.0,10.0,8.0,1.0,18.0,4.06,54.48,36.0,2.0
+15,India,Bangladesh,ODI,Chandigarh,1990,Bangladesh,Batting,171.0,1.0,12.0,3.0,12.0,4.64,63.78,104.0,2.0,Navjot Sidhu,India,170.0,6.0,11.0,0.0,29.0,3.4,46.26,57.0,1.0
+16,India,Sri Lanka,ODI,Cuttack,1990,Sri Lanka,Batting,178.0,10.0,9.0,0.0,13.0,3.88,51.31,40.0,3.0,Arjuna Ranatunga,Sri Lanka,214.0,10.0,2.0,1.0,32.0,4.33,46.93,53.0,3.0
+17,Bangladesh,Sri Lanka,ODI,Kolkata,1990,Sri Lanka,Batting,178.0,9.0,0.0,0.0,20.0,3.95,43.2,78.0,1.0,Athar Ali Khan,Sri Lanka,249.0,4.0,0.0,0.0,15.0,5.53,81.82,89.0,2.0
+18,India,Sri Lanka,ODI,Kolkata,1991,India,Bowling,205.0,3.0,7.0,1.0,2.0,4.86,73.75,75.0,4.0,Mohammad Azharuddin,India,204.0,9.0,3.0,0.0,21.0,4.53,55.73,49.0,1.0
+19,Bangladesh,India,ODI,Sharjah,1995,Bangladesh,Batting,163.0,10.0,12.0,1.0,11.0,3.64,66.87,30.0,1.0,Manoj Prabhakar,India,164.0,1.0,21.0,1.0,7.0,5.89,110.24,56.0,2.0
+20,Bangladesh,Sri Lanka,ODI,Sharjah,1995,Bangladesh,Bowling,126.0,10.0,8.0,0.0,12.0,2.84,36.15,26.0,4.0,Arjuna Ranatunga,Sri Lanka,233.0,10.0,15.0,1.0,10.0,4.69,70.57,71.0,4.0
+21,India,Pakistan,ODI,Sharjah,1995,Pakistan,Batting,169.0,10.0,11.0,2.0,26.0,3.96,28.93,54.0,2.0,Aaqib Javed,Pakistan,266.0,9.0,21.0,5.0,16.0,5.32,92.95,88.0,5.0
+22,Bangladesh,Pakistan,ODI,Sharjah,1995,Bangladesh,Batting,151.0,8.0,7.0,0.0,14.0,3.02,29.93,44.0,1.0,Wasim Akram,Pakistan,152.0,4.0,15.0,2.0,7.0,5.12,79.03,38.0,2.0
+23,India,Sri Lanka,ODI,Sharjah,1995,Sri Lanka,Batting,206.0,2.0,24.0,1.0,17.0,6.21,85.03,112.0,3.0,Sachin Tendulkar,India,202.0,9.0,15.0,2.0,29.0,4.04,49.64,48.0,2.0
+24,Pakistan,Sri Lanka,ODI,Sharjah,1995,Sri Lanka,Bowling,178.0,9.0,5.0,3.0,22.0,3.56,40.74,73.0,2.0,Sanath Jayasuriya,Sri Lanka,180.0,5.0,16.0,2.0,17.0,5.83,101.55,48.0,3.0
+25,India,Sri Lanka,ODI,Sharjah,1995,India,Bowling,233.0,2.0,15.0,2.0,9.0,5.56,83.33,90.0,2.0,Mohammad Azharuddin,India,230.0,7.0,12.0,3.0,37.0,4.6,72.28,85.0,1.0
+26,Sri Lanka,Pakistan,ODI,Colombo(RPS),1997,Pakistan,Bowling,239.0,10.0,9.0,1.0,12.0,4.79,63.56,80.0,4.0,Marvan Atapattu,Sri Lanka,224.0,9.0,11.0,3.0,15.0,4.48,68.02,57.0,2.0
+27,Bangladesh,Pakistan,ODI,Colombo(RPS),1997,Pakistan,Batting,210.0,10.0,15.0,1.0,18.0,4.24,54.03,82.0,1.0,Saeed Anwar,Pakistan,319.0,5.0,28.0,3.0,13.0,6.38,129.1,90.0,5.0
+28,Sri Lanka,India,ODI,Colombo(RPS),1997,Sri Lanka,Bowling,231.0,4.0,23.0,0.0,21.0,5.17,66.43,131.0,2.0,Arjuna Ranatunga,Sri Lanka,227.0,6.0,19.0,2.0,4.0,4.54,86.79,81.0,2.0
+29,India,Pakistan,ODI,Colombo(SSC),1997,India,Bowling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,NA,Match Cancelled,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Sri Lanka,Bangladesh,ODI,Colombo(SSC),1997,Bangladesh,Bowling,296.0,4.0,31.0,4.0,13.0,6.43,104.29,108.0,2.0,Sanath Jayasuriya,Sri Lanka,193.0,8.0,15.0,1.0,23.0,4.19,56.86,47.0,2.0
+31,Bangladesh,India,ODI,Colombo(SSC),1997,India,Bowling,130.0,8.0,10.0,0.0,19.0,3.02,31.66,33.0,1.0,Sourav Ganguly,India,132.0,1.0,16.0,2.0,8.0,8.8,129.57,73.0,3.0
+32,Sri Lanka,India,ODI,Colombo(RPS),1997,India,Batting,240.0,2.0,19.0,6.0,25.0,6.51,99.56,84.0,2.0,Marvan Atapattu,Sri Lanka,239.0,7.0,11.0,2.0,15.0,4.78,91.52,81.0,1.0
+33,Bangladesh,Sri Lanka,ODI,Dhaka,2000,Sri Lanka,Bowling,175.0,6.0,8.0,1.0,12.0,3.5,46.74,85.0,1.0,Aravinda de Silva,Sri Lanka,178.0,1.0,20.0,4.0,13.0,5.8,82.31,96.0,2.0
+34,Bangladesh,India,ODI,Dhaka,2000,Bangladesh,Batting,249.0,6.0,17.0,4.0,17.0,4.98,90.75,64.0,1.0,Sourav Ganguly,India,252.0,2.0,17.0,9.0,11.0,6.27,100.72,135.0,3.0
+35,India,Sri Lanka,ODI,Dhaka,2000,Sri Lanka,Batting,205.0,10.0,18.0,2.0,17.0,4.55,52.18,93.0,2.0,Sanath Jayasuriya,Sri Lanka,276.0,8.0,21.0,2.0,23.0,5.52,84.47,105.0,3.0
+36,Bangladesh,Pakistan,ODI,Dhaka,2000,Pakistan,Batting,87.0,10.0,7.0,0.0,22.0,2.53,28.78,23.0,1.0,Imran Nazir,Pakistan,320.0,3.0,33.0,6.0,9.0,6.4,111.43,80.0,3.0
+37,India,Pakistan,ODI,Dhaka,2000,Pakistan,Batting,251.0,10.0,19.0,4.0,38.0,5.26,54.83,93.0,3.0,Mohammad Yousuf,Pakistan,295.0,7.0,29.0,3.0,16.0,5.9,100.53,100.0,4.0
+38,Pakistan,Sri Lanka,ODI,Dhaka,2000,Sri Lanka,Batting,193.0,3.0,14.0,3.0,15.0,3.99,64.61,90.0,3.0,Mohammad Yousuf,Pakistan,192.0,10.0,10.0,2.0,12.0,3.91,46.81,62.0,2.0
+39,Pakistan,Sri Lanka,ODI,Dhaka,2000,Pakistan,Batting,277.0,4.0,16.0,6.0,17.0,5.54,85.63,82.0,2.0,Moin Khan,Pakistan,238.0,10.0,20.0,3.0,15.0,5.25,61.8,100.0,2.0
+40,Bangladesh,Hong Kong,ODI,Colombo(SSC),2004,Hong Kong,Bowling,221.0,9.0,15.0,0.0,20.0,4.42,74.38,68.0,3.0,Javed Omar,Bangladesh,105.0,10.0,6.0,0.0,13.0,2.31,31.01,20.0,3.0
+41,India,UAE,ODI,Dambulla,2004,India,Batting,260.0,6.0,17.0,1.0,14.0,5.2,74.59,104.0,3.0,Rahul Dravid,India,144.0,10.0,14.0,0.0,34.0,4.11,34.93,55.0,2.0
+42,Bangladesh,Pakistan,ODI,Colombo(SSC),2004,Pakistan,Batting,181.0,10.0,13.0,1.0,20.0,3.99,45.64,62.0,2.0,Yasir Hameed,Pakistan,257.0,6.0,19.0,2.0,11.0,5.14,83.96,102.0,3.0
+43,Sri Lanka,UAE,ODI,Dambulla,2004,Sri Lanka,Batting,239.0,10.0,20.0,1.0,24.0,4.78,65.42,73.0,4.0,Khurram Khan,Sri Lanka,123.0,10.0,8.0,0.0,24.0,2.57,28.99,39.0,4.0
+44,Hong Kong,Pakistan,ODI,Colombo(SSC),2004,Pakistan,Batting,165.0,10.0,17.0,1.0,29.0,3.73,38.65,36.0,2.0,Shoaib Malik,Pakistan,343.0,5.0,24.0,6.0,13.0,6.86,136.56,144.0,4.0
+45,Sri Lanka,India,ODI,Dambulla,2004,Sri Lanka,Batting,282.0,4.0,19.0,3.0,27.0,5.64,87.88,58.0,3.0,Nuwan Zoysa,Sri Lanka,270.0,8.0,23.0,2.0,34.0,5.4,73.76,82.0,1.0
+46,Bangladesh,India,ODI,Colombo(SSC),2004,India,Bowling,177.0,10.0,9.0,2.0,37.0,3.6,34.2,35.0,1.0,Sachin Tendulkar,India,178.0,2.0,16.0,4.0,19.0,4.62,89.6,82.0,3.0
+47,Sri Lanka,Pakistan,ODI,Colombo(RPS),2004,Pakistan,Batting,123.0,3.0,10.0,0.0,25.0,3.84,56.99,26.0,3.0,Nuwan Zoysa,Sri Lanka,122.0,10.0,7.0,1.0,16.0,3.06,33.51,43.0,2.0
+48,Sri Lanka,Bangladesh,ODI,Colombo(RPS),2004,Bangladesh,Batting,191.0,0.0,15.0,0.0,20.0,5.7,84.97,107.0,3.0,Sanath Jayasuriya,Sri Lanka,190.0,9.0,12.0,1.0,20.0,3.8,79.55,66.0,0.0
+49,India,Pakistan,ODI,Colombo(RPS),2004,Pakistan,Batting,241.0,8.0,18.0,1.0,38.0,4.82,59.68,78.0,3.0,Shoaib Malik,Pakistan,300.0,9.0,29.0,2.0,21.0,6.0,68.11,143.0,2.0
+50,Sri Lanka,India,ODI,Colombo(RPS),2004,India,Batting,267.0,9.0,20.0,3.0,26.0,5.34,72.7,130.0,2.0,Virender Sehwag,India,271.0,6.0,23.0,2.0,20.0,5.42,84.49,79.0,3.0
+51,Bangladesh,Pakistan,ODI,Colombo(RPS),2004,Bangladesh,Batting,166.0,10.0,12.0,0.0,37.0,3.66,34.08,54.0,1.0,Shoaib Malik,Pakistan,167.0,4.0,22.0,0.0,10.0,4.07,62.75,48.0,3.0
+52,Sri Lanka,India,ODI,Colombo(RPS),2004,Sri Lanka,Batting,228.0,9.0,18.0,0.0,32.0,4.56,60.69,65.0,3.0,Marvan Atapattu,Sri Lanka,203.0,9.0,13.0,3.0,25.0,4.06,58.39,74.0,2.0
+53,Bangladesh,UAE,ODI,Lahore,2008,Bangladesh,Batting,300.0,8.0,22.0,1.0,18.0,6.0,95.6,109.0,3.0,Mohammad Ashraful,Bangladesh,204.0,10.0,22.0,1.0,10.0,4.46,57.53,78.0,3.0
+54,Pakistan,Hong Kong,ODI,Karachi,2008,Pakistan,Batting,288.0,9.0,30.0,1.0,12.0,5.76,79.88,67.0,2.0,Sohail Tanvir,Pakistan,133.0,10.0,13.0,0.0,16.0,3.56,40.08,26.0,4.0
+55,Bangladesh,Sri Lanka,ODI,Lahore,2008,Bangladesh,Bowling,226.0,7.0,13.0,2.0,20.0,4.52,60.82,44.0,3.0,Kumar Sangakkara,Sri Lanka,357.0,9.0,36.0,5.0,22.0,7.14,97.7,101.0,2.0
+56,Hong Kong,India,ODI,Karachi,2008,India,Batting,118.0,10.0,17.0,0.0,9.0,3.2,40.44,25.0,2.0,Suresh Raina,India,374.0,4.0,33.0,14.0,9.0,7.48,123.06,109.0,4.0
+57,Pakistan,India,ODI,Karachi,2008,Pakistan,Batting,299.0,4.0,33.0,1.0,7.0,5.98,123.3,125.0,2.0,Suresh Raina,India,301.0,4.0,25.0,12.0,15.0,7.13,85.13,119.0,1.0
+58,Sri Lanka,UAE,ODI,Lahore,2008,Sri Lanka,Batting,290.0,9.0,22.0,0.0,19.0,5.8,80.53,67.0,5.0,Ajantha Mendis,Sri Lanka,148.0,10.0,16.0,0.0,9.0,4.05,42.01,77.0,3.0
+59,Bangladesh,India,ODI,Karachi,2008,Bangladesh,Batting,283.0,6.0,27.0,6.0,14.0,5.66,71.07,115.0,2.0,Suresh Raina,India,284.0,3.0,25.0,6.0,18.0,6.55,86.45,116.0,2.0
+60,Pakistan,Sri Lanka,ODI,Karachi,2008,Pakistan,Bowling,238.0,9.0,17.0,4.0,3.0,4.76,62.63,76.0,5.0,Kumar Sangakkara,Sri Lanka,302.0,7.0,26.0,4.0,23.0,6.04,93.22,112.0,4.0
+61,Bangladesh,Sri Lanka,ODI,Karachi,2008,Sri Lanka,Batting,174.0,10.0,20.0,1.0,14.0,4.51,55.06,52.0,2.0,Sanath Jayasuriya,Sri Lanka,332.0,8.0,36.0,8.0,10.0,6.64,96.79,130.0,5.0
+62,Pakistan,India,ODI,Karachi,2008,India,Batting,309.0,2.0,35.0,2.0,6.0,6.79,137.17,123.0,3.0,Younis Khan,Pakistan,308.0,7.0,26.0,3.0,13.0,6.16,89.22,76.0,1.0
+63,India,Sri Lanka,ODI,Karachi,2008,Sri Lanka,Batting,310.0,4.0,30.0,3.0,21.0,6.61,103.26,68.0,2.0,MS Dhoni,India,308.0,8.0,30.0,3.0,15.0,6.16,107.2,75.0,2.0
+64,Pakistan,Bangladesh,ODI,Karachi,2008,Bangladesh,Batting,116.0,0.0,14.0,2.0,8.0,5.89,91.59,56.0,3.0,Abdur Rauf,Pakistan,115.0,10.0,8.0,2.0,16.0,3.0,38.31,26.0,0.0
+65,India,Sri Lanka,ODI,Karachi,2008,India,Bowling,173.0,10.0,23.0,0.0,3.0,4.37,50.41,60.0,3.0,Ajantha Mendis,Sri Lanka,273.0,10.0,21.0,5.0,9.0,5.47,82.77,125.0,6.0
+66,Sri Lanka,Pakistan,ODI,Dambulla,2010,Sri Lanka,Batting,242.0,9.0,17.0,1.0,11.0,4.84,73.73,55.0,5.0,Shahid Afridi,Sri Lanka,226.0,10.0,12.0,7.0,15.0,4.8,48.35,109.0,3.0
+67,Bangladesh,India,ODI,Dambulla,2010,Bangladesh,Batting,167.0,10.0,15.0,1.0,21.0,4.79,61.7,37.0,2.0,Gautam Gambhir,India,168.0,4.0,11.0,1.0,25.0,5.47,65.7,82.0,4.0
+68,Sri Lanka,Bangladesh,ODI,Dambulla,2010,Sri Lanka,Batting,312.0,4.0,28.0,5.0,13.0,6.24,106.19,71.0,3.0,Tillakaratne Dilshan,Sri Lanka,186.0,10.0,17.0,1.0,18.0,4.61,56.09,51.0,2.0
+69,India,Pakistan,ODI,Dambulla,2010,Pakistan,Batting,271.0,7.0,14.0,6.0,24.0,5.43,92.55,83.0,3.0,Gautam Gambhir,India,267.0,10.0,20.0,4.0,11.0,5.39,70.7,74.0,3.0
+70,Bangladesh,Pakistan,ODI,Dambulla,2010,Pakistan,Batting,246.0,5.0,18.0,2.0,12.0,4.92,67.64,97.0,3.0,Shahid Afridi,Pakistan,385.0,7.0,41.0,10.0,11.0,7.7,129.98,124.0,1.0
+71,Sri Lanka,India,ODI,Dambulla,2010,Sri Lanka,Bowling,211.0,3.0,25.0,2.0,16.0,5.62,90.14,73.0,5.0,Farveez Maharoof,Sri Lanka,209.0,10.0,23.0,1.0,6.0,4.91,45.94,69.0,2.0
+72,Sri Lanka,India,ODI,Dambulla,2010,India,Batting,187.0,10.0,16.0,1.0,18.0,4.18,53.4,55.0,2.0,Dinesh Karthik,India,268.0,6.0,24.0,1.0,19.0,5.36,87.0,66.0,4.0
+73,Bangladesh,Pakistan,ODI,Mirpur,2012,Bangladesh,Bowling,241.0,10.0,20.0,3.0,7.0,5.0,55.13,64.0,3.0,Mohammad Hafeez,Pakistan,262.0,8.0,21.0,2.0,8.0,5.24,95.87,89.0,3.0
+74,India,Sri Lanka,ODI,Mirpur,2012,Sri Lanka,Bowling,304.0,3.0,24.0,2.0,14.0,6.08,111.94,108.0,4.0,Virat Kohli,India,254.0,10.0,20.0,5.0,8.0,5.62,73.82,78.0,2.0
+75,Pakistan,Sri Lanka,ODI,Mirpur,2012,Sri Lanka,Batting,189.0,4.0,21.0,3.0,5.0,4.74,64.33,77.0,4.0,Aizaz Cheema,Pakistan,188.0,10.0,14.0,1.0,9.0,4.11,42.65,71.0,2.0
+76,Bangladesh,India,ODI,Mirpur,2012,Bangladesh,Bowling,293.0,5.0,24.0,6.0,12.0,5.93,116.73,70.0,2.0,Shakib Al Hasan,Bangladesh,289.0,5.0,25.0,3.0,18.0,5.78,116.94,114.0,3.0
+77,India,Pakistan,ODI,Mirpur,2012,Pakistan,Batting,330.0,4.0,34.0,4.0,11.0,6.89,152.32,183.0,2.0,Virat Kohli,India,329.0,6.0,27.0,2.0,15.0,6.58,86.28,112.0,2.0
+78,Bangladesh,Sri Lanka,ODI,Mirpur,2012,Bangladesh,Bowling,212.0,5.0,23.0,0.0,20.0,5.7,72.18,59.0,3.0,Shakib Al Hasan,Sri Lanka,232.0,10.0,19.0,1.0,11.0,4.65,64.14,62.0,2.0
+79,Bangladesh,Pakistan,ODI,Mirpur,2012,Bangladesh,Bowling,234.0,8.0,20.0,1.0,11.0,4.68,76.41,68.0,2.0,Shahid Afridi,Pakistan,236.0,9.0,19.0,3.0,18.0,4.72,74.75,46.0,3.0
+80,Pakistan,Sri Lanka,ODI,Fatullah,2014,Sri Lanka,Batting,284.0,10.0,26.0,6.0,13.0,5.81,101.36,74.0,2.0,Lasith Malinga,Sri Lanka,296.0,6.0,29.0,2.0,18.0,5.92,86.84,102.0,5.0
+81,Bangladesh,India,ODI,Fatullah,2014,India,Bowling,279.0,7.0,20.0,6.0,18.0,5.58,81.02,117.0,1.0,Virat Kohli,India,280.0,4.0,29.0,4.0,11.0,5.71,82.58,136.0,4.0
+82,Afghanistan,Pakistan,ODI,Fatullah,2014,Afghanistan,Bowling,176.0,10.0,18.0,0.0,13.0,3.71,45.44,44.0,2.0,Umar Akmal,Pakistan,248.0,8.0,22.0,5.0,5.0,4.96,70.21,102.0,3.0
+83,India,Sri Lanka,ODI,Fatullah,2014,Sri Lanka,Bowling,264.0,9.0,17.0,5.0,11.0,5.28,82.73,94.0,3.0,Kumar Sangakkara,Sri Lanka,265.0,8.0,25.0,4.0,8.0,5.37,85.75,103.0,4.0
+84,Bangladesh,Afghanistan,ODI,Fatullah,2014,Bangladesh,Bowling,222.0,10.0,16.0,4.0,12.0,4.64,52.1,50.0,2.0,Samiullah Shinwari,Afghanistan,254.0,6.0,21.0,5.0,17.0,5.08,55.1,90.0,3.0
+85,India,Pakistan,ODI,Mirpur,2014,Pakistan,Bowling,245.0,8.0,23.0,5.0,8.0,4.9,74.32,58.0,3.0,Mohammad Hafeez,Pakistan,249.0,9.0,16.0,8.0,17.0,5.01,68.36,75.0,3.0
+86,Afghanistan,Sri Lanka,ODI,Mirpur,2014,Sri Lanka,Batting,124.0,10.0,11.0,2.0,9.0,3.2,38.46,37.0,2.0,Kumar Sangakkara,Sri Lanka,253.0,6.0,18.0,2.0,18.0,5.06,79.39,76.0,3.0
+87,Bangladesh,Pakistan,ODI,Mirpur,2014,Bangladesh,Batting,326.0,3.0,31.0,8.0,21.0,6.52,138.5,100.0,2.0,Shahid Afridi,Pakistan,329.0,7.0,29.0,10.0,13.0,6.6,114.45,103.0,2.0
+88,Afghanistan,India,ODI,Mirpur,2014,India,Bowling,159.0,10.0,16.0,2.0,14.0,3.5,45.2,50.0,1.0,Ravindra Jadeja,India,160.0,2.0,13.0,1.0,5.0,4.94,78.63,60.0,4.0
+89,Bangladesh,Sri Lanka,ODI,Mirpur,2014,Bangladesh,Batting,204.0,9.0,14.0,1.0,17.0,4.08,49.51,49.0,2.0,Angelo Mathews,Sri Lanka,208.0,7.0,19.0,1.0,9.0,4.24,55.16,74.0,2.0
+90,Pakistan,Sri Lanka,ODI,Mirpur,2014,Pakistan,Batting,260.0,5.0,21.0,5.0,6.0,5.2,86.61,114.0,3.0,Lasith Malinga,Sri Lanka,261.0,5.0,33.0,2.0,8.0,5.63,78.52,101.0,5.0
+91,Bangladesh,India,T20I,Mirpur,2016,Bangladesh,Bowling,121.0,7.0,8.0,3.0,10.0,6.05,72.89,44.0,3.0,Rohit Sharma,India,166.0,6.0,15.0,5.0,7.0,8.3,146.48,83.0,3.0
+92,Sri Lanka,UAE,T20I,Mirpur,2016,UAE,Bowling,129.0,8.0,14.0,1.0,5.0,6.45,87.84,50.0,4.0,Lasith Malinga,Sri Lanka,115.0,9.0,7.0,2.0,16.0,5.75,65.1,37.0,3.0
+93,Bangladesh,UAE,T20I,Mirpur,2016,UAE,Bowling,133.0,8.0,8.0,5.0,5.0,6.65,64.8,47.0,2.0,Mahmudullah,Bangladesh,82.0,10.0,7.0,4.0,3.0,4.64,50.99,30.0,2.0
+94,India,Pakistan,T20I,Mirpur,2016,India,Bowling,85.0,5.0,10.0,0.0,14.0,5.48,56.88,49.0,3.0,Virat Kohli,India,83.0,10.0,8.0,0.0,15.0,4.74,70.39,25.0,3.0
+95,Bangladesh,Sri Lanka,T20I,Mirpur,2016,Bangladesh,Batting,147.0,7.0,15.0,4.0,4.0,7.35,68.71,80.0,3.0,Sabbir Rahman,Bangladesh,124.0,8.0,7.0,4.0,3.0,6.2,93.02,37.0,3.0
+96,Pakistan,UAE,T20I,Mirpur,2016,UAE,Batting,131.0,3.0,12.0,6.0,3.0,7.01,92.45,63.0,2.0,Shoaib Malik,Pakistan,129.0,6.0,13.0,6.0,9.0,6.45,103.27,46.0,3.0
+97,India,Sri Lanka,T20I,Mirpur,2016,India,Bowling,142.0,5.0,15.0,4.0,1.0,7.34,110.74,56.0,2.0,Virat Kohli,India,138.0,9.0,14.0,2.0,10.0,6.9,107.95,30.0,2.0
+98,Bangladesh,Pakistan,T20I,Mirpur,2016,Pakistan,Batting,131.0,5.0,10.0,3.0,8.0,6.83,118.28,48.0,3.0,Soumya Sarkar,Bangladesh,129.0,7.0,12.0,4.0,0.0,6.45,68.11,58.0,2.0
+99,India,UAE,T20I,Mirpur,2016,UAE,Batting,82.0,1.0,14.0,2.0,2.0,8.06,132.62,39.0,2.0,Rohit Sharma,India,81.0,9.0,6.0,1.0,7.0,4.05,34.28,43.0,1.0
+100,Pakistan,Sri Lanka,T20I,Mirpur,2016,Pakistan,Bowling,151.0,4.0,18.0,3.0,7.0,7.81,120.67,48.0,2.0,Umar Akmal,Pakistan,150.0,4.0,17.0,2.0,7.0,7.5,80.93,75.0,1.0
+101,Bangladesh,India,T20I,Mirpur,2016,India,Bowling,120.0,5.0,12.0,2.0,3.0,8.0,115.35,33.0,1.0,Shikhar Dhawan,India,122.0,2.0,15.0,3.0,0.0,8.81,159.03,60.0,1.0
+102,Bangladesh,Sri Lanka,ODI,Dubai(DSC),2018,Bangladesh,Batting,261.0,10.0,19.0,6.0,12.0,5.27,47.61,144.0,2.0,Mushfiqur Rahim,Bangladesh,124.0,10.0,8.0,4.0,1.0,3.5,56.26,29.0,4.0
+103,Hong Kong,Pakistan,ODI,Dubai(DSC),2018,Hong Kong,Batting,116.0,10.0,10.0,1.0,4.0,3.12,40.6,27.0,2.0,Usman Shinwari,Pakistan,120.0,2.0,9.0,3.0,4.0,5.07,83.7,50.0,3.0
+104,Afghanistan,Sri Lanka,ODI,Abu Dhabi,2018,Afghanistan,Batting,249.0,10.0,19.0,3.0,9.0,4.98,106.37,72.0,2.0,Rahmat Shah,Afghanistan,158.0,10.0,10.0,1.0,13.0,3.82,43.2,36.0,5.0
+105,Hong Kong,India,ODI,Dubai(DSC),2018,Hong Kong,Bowling,259.0,8.0,19.0,6.0,13.0,5.18,77.72,92.0,3.0,Shikhar Dhawan,India,285.0,7.0,25.0,5.0,5.0,5.7,67.08,127.0,3.0
+106,India,Pakistan,ODI,Dubai(DSC),2018,Pakistan,Batting,164.0,2.0,17.0,5.0,4.0,5.65,92.42,52.0,3.0,Bhuvneshwar Kumar,India,162.0,10.0,10.0,2.0,7.0,3.75,45.54,47.0,1.0
+107,Afghanistan,Bangladesh,ODI,Abu Dhabi,2018,Afghanistan,Batting,255.0,7.0,24.0,1.0,7.0,5.1,93.22,58.0,2.0,Rashid Khan,Afghanistan,119.0,10.0,5.0,0.0,5.0,2.82,34.44,32.0,4.0
+108,Bangladesh,India,ODI,Dubai(DSC),2018,India,Bowling,173.0,10.0,11.0,4.0,3.0,3.51,56.81,42.0,1.0,Ravindra Jadeja,India,174.0,3.0,13.0,4.0,4.0,4.78,66.77,83.0,4.0
+109,Afghanistan,Pakistan,ODI,Abu Dhabi,2018,Afghanistan,Batting,257.0,6.0,16.0,5.0,5.0,5.14,92.35,97.0,3.0,Shoaib Malik,Pakistan,258.0,7.0,13.0,6.0,17.0,5.21,92.88,80.0,3.0
+110,India,Pakistan,ODI,Dubai(DSC),2018,Pakistan,Batting,238.0,1.0,24.0,6.0,1.0,6.02,91.31,114.0,2.0,Shikhar Dhawan,India,237.0,7.0,11.0,5.0,8.0,4.74,78.76,78.0,0.0
+111,Afghanistan,Bangladesh,ODI,Abu Dhabi,2018,Bangladesh,Batting,246.0,7.0,20.0,3.0,8.0,4.92,76.19,71.0,3.0,Mahmudullah,Bangladesh,249.0,7.0,15.0,3.0,7.0,4.98,72.28,74.0,2.0
+112,Afghanistan,India,ODI,Dubai(DSC),2018,Afghanistan,Batting,252.0,8.0,17.0,11.0,7.0,5.04,54.19,124.0,2.0,Mohammad Shahzad,India,252.0,10.0,17.0,5.0,9.0,5.05,71.67,60.0,3.0
+113,Bangladesh,Pakistan,ODI,Abu Dhabi,2018,Bangladesh,Batting,239.0,10.0,17.0,1.0,9.0,4.89,73.23,99.0,4.0,Mushfiqur Rahim,Bangladesh,202.0,9.0,10.0,2.0,9.0,4.04,60.59,83.0,4.0
+114,Bangladesh,India,ODI,Dubai(DSC),2018,India,Bowling,222.0,10.0,17.0,4.0,7.0,4.57,49.98,121.0,2.0,Litton Das,India,223.0,7.0,13.0,6.0,13.0,4.46,73.33,48.0,3.0
